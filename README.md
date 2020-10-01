@@ -16,8 +16,8 @@
   
   7. most profitable items 
   
-  ## Tools/Packages used
-  -- 
+ ## Tools/Packages used
+  ---
   * Python 
   * Pandas  
   
